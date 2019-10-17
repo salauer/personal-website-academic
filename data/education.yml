@@ -1,0 +1,18 @@
+name: Education
+source:
+  - title: PhD in Biostatistics
+    univ: University of Massachusetts
+    place: Amherst, MA
+    date: 2014 to 2019
+    type: thesis
+    description: Methods for making policy-relevant forecasts of infectious disease incidence.
+
+  - title: MS in Biostatistics
+    univ: University of Massachusetts
+    place: Amherst, MA
+    date: 2012 to 2014
+
+  - title: BS in Business, Operations Management
+    univ: University of Maryland
+    place: College Park, MD
+    date: 2005 to 2009

@@ -1,0 +1,18 @@
+name: Employment
+source:
+  - prof: Postdoctoral Researcher
+    place: Johns Hopkins Bloomberg School of Public Health, Baltimore, MD
+    time: 2019 to Present
+    description:
+    - bullet: Estimate the incidence of cholera in Bangladesh using a random forest model.
+    - bullet: Model the decay in sensitivity of diagnostic tests based on serological biomarkers decay over time.
+
+  - prof: Research Assistant
+    place: University of Massachusetts, Amherst, MA
+    time: 2013 to 2019
+    description:
+    - bullet: Built and cross-validated statistical forecasting models for annual dengue fever incidence.
+    - bullet: Developed a causal inference technique for estimating the effect of an event on an outcome.
+    - bullet: Assisted in development of the ALERT algorithm for determining the onset of the flu season.
+    - bullet: Built an R package and a Shiny web app in support of the ALERT algorithm.
+    - bullet: Developed a series of Shiny web apps to measure social statistics for SEIGMA project.
