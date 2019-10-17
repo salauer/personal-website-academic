@@ -58,9 +58,3 @@ Here's my new ambitious list of topics:
   
 These topics are much broader than my list on the Scublog, but I think it's a good place to start.
 I'm glad to be back!
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
