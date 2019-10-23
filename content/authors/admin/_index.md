@@ -70,7 +70,7 @@ user_groups:
 I am a postdoctoral researcher in the [Infectious Disease Dynamics Group] (http://www.iddynamics.jhsph.edu) at Johns Hopkins Bloomberg School of Public Health.
 My current research focuses on estimating the burden and distribution of cholera in Bangladesh based on serological biomarkers.
 
-During my PhD, I worked with the Thailand Ministry of Public Health to [forecast dengue fever incidence](#publications) at short and long time scales.
+During my PhD at [UMass](https://reichlab.io), I worked with the Thailand Ministry of Public Health to [forecast dengue fever incidence](#publications) at short and long time scales.
 I also developed a new causal inference technique and applied it to estimate the effect of interventions on dengue incidence (papers in progress).
 
 Outside of the office, my interests include sports, [travel](https://salauer.github.io/2019/10/17/reflecting-back-on-the-old-travel-blog/), economics, voting reform, transportation issues, and video games.
