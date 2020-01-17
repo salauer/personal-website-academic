@@ -27,8 +27,10 @@ date_format = "Jan 2006"
   description = """
   Projects:
   
-  * Estimating the incidence of cholera in Bangladesh using a random forest model
-  * Modeling the decay in the sensitivity of diagnostic tests based on serological biomarkers over time
+  * Estimate the seroincidence rate of cholera in Bangladesh using Bayesian hierarchical models (compiled in Stan)
+  * Make geospatial maps based on clustered data using integrated nested Laplace approximations (INLA) 
+  * Fit a random forest model to cohort data and use it to predict cholera seropositivity
+  * Model the decay in the sensitivity of diagnostic tests based on serological biomarkers over time
   """
 
 [[experience]]
