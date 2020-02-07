@@ -67,11 +67,12 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the [Infectious Disease Dynamics Group] (http://www.iddynamics.jhsph.edu) at Johns Hopkins Bloomberg School of Public Health.
+I am a postdoctoral researcher in the [Infectious Disease Dynamics Group](http://www.iddynamics.jhsph.edu) at Johns Hopkins Bloomberg School of Public Health.
 My current research focuses on estimating the burden and distribution of cholera in Bangladesh based on serological biomarkers.
+As a side project, I have estimated some of the epidemiological parameters of the recent [2019-nCoV outbreak](https://github.com/HopkinsIDD/ncov_incubation).
 
 During my PhD at [UMass](https://reichlab.io), I worked with the Thailand Ministry of Public Health to [forecast dengue fever incidence](#publications) at short and long time scales.
-I also developed a new causal inference technique and applied it to estimate the effect of interventions on dengue incidence (papers in progress).
+During my time as a grad student, I developed a number of Shiny web applications for various projects ([SEIGMA](https://seigma.shinyapps.io/income/), [dengue predictions](https://iddynamics.jhsph.edu/apps/connect/dengue_forecast/), and [ALERT](https://iddynamics.jhsph.edu/apps/connect/ALERT/)).
 
 Outside of the office, my interests include sports, [travel](https://salauer.github.io/2019/10/17/reflecting-back-on-the-old-travel-blog/), economics, voting reform, transportation issues, and video games.
 Check out my full [bio](#experience) for more details!
